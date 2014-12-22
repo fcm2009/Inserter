@@ -38,5 +38,5 @@ public class Entry<T extends Comparable<T>> implements Comparable, Serializable 
     public String toString() {
         return value.toString();
     }
-    
+
 }
